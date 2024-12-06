@@ -49,9 +49,9 @@ const HS1 = () => {
           </span>
         </h1>
         <p className="mt-10 text-1xl text-center text-white max-w-3xl">
-          At AMA University-Pasig, we equip students with cutting-edge skills
-          and practical experience to lead in the evolving world of technology.
-          Join us in shaping the future of IT.
+          At AMA Computer College-Pasig, we equip students with cutting-edge
+          skills and practical experience to lead in the evolving world of
+          technology. Join us in shaping the future of IT.
         </p>
         <div className="flex justify-center my-10">
           <Link
